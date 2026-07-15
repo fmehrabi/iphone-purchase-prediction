@@ -1,4 +1,4 @@
-iPhone Purchase Prediction Using Logistic Regression
+##iPhone Purchase Prediction Using Logistic Regression
 ## Project Overview
 
 This beginner machine learning project predicts whether a customer will purchase an iPhone based on three features:
